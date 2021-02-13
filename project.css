@@ -550,7 +550,7 @@
     width: 100%;
 }
 .container__product-item-overplay{
-    width: 92.4%;
+    width: 100%;
     opacity: 0.5;
     height: 100%;
     background-image: linear-gradient(#0f0c29,#302b63,#24243e);   
