@@ -2,6 +2,9 @@
     #cancel-button{
         display: block;
     }
+    .nav__menu-list-item-link::after{
+        display: none;
+    }
     .hide_pc{
         display: block;
     }
