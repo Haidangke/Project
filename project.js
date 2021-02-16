@@ -75,6 +75,3 @@ if(window.innerWidth < 739){
     eventClick(cancel__icon, 'translateX(110%)', 'none');
     eventClick(overplay, 'translateX(110%)', 'none');
 }
-
-
-
