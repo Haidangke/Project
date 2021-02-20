@@ -215,6 +215,9 @@
         flex-direction: column;
         justify-content: space-between;
     }
+    .footer__down{
+        height: 58px;
+    }
     .footer__menu-list{
         justify-content: center;
         align-items: center;
