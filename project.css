@@ -313,6 +313,7 @@
     text-transform: uppercase;
 }
 .container__works-procedure-describe{
+    text-align: center;
     font-size: 16px;
     line-height: 25px;   
     font-weight: 400;
