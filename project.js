@@ -1,9 +1,9 @@
-var link1 = 'http://mina.kenzap.com/wp-content/uploads/2017/03/face-icon.png';
-var link2 = 'http://mina.kenzap.com/wp-content/uploads/2017/03/face-icon-hover.png';
-var link3 = 'http://mina.kenzap.com/wp-content/uploads/2017/03/eye-icon.png';
-var link4 = 'http://mina.kenzap.com/wp-content/uploads/2017/03/eye-icon-hover.png';
-var link5 = 'http://mina.kenzap.com/wp-content/uploads/2017/03/hair-icon.png';
-var link6 = 'http://mina.kenzap.com/wp-content/uploads/2017/03/hair-icon-hover.png';
+var link1 = 'Project__Img/link1.png';
+var link2 = 'Project__Img/link2.png';
+var link3 = 'Project__Img/link3.png';
+var link4 = 'Project__Img/link4.png';
+var link5 = 'Project__Img/link5.png';
+var link6 = 'Project__Img/link6.png';
 var $ = document.querySelector.bind(document);
 
 var icon_menu = $('.icon-menu');
